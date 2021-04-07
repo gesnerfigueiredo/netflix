@@ -1,4 +1,4 @@
-# Recraindo a interface do Netflix
+# Recriando a interface do Netflix
 
  Técnicas de CSS3 com containers e variáveis  
  Posicionamento dos elementos com Flexbox
