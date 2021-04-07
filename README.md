@@ -1,7 +1,9 @@
 # Recriando a interface do Netflix
 
  Técnicas de CSS3 com containers e variáveis  
+ 
  Posicionamento dos elementos com Flexbox
+ 
  Plugins Jquery
 
  Projeto realizado no Bootcamp HTML Developer - Digital Innovation One.
