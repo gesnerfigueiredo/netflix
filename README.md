@@ -1,4 +1,4 @@
-# Clone da página inicial do Netflix
+# Recraindo a interface do Netflix
 
  Técnicas de CSS3 com containers e variáveis  
  Posicionamento dos elementos com Flexbox
